@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF014C81-E5A7-48BB-B451-37F1AA8487C9}|AutoService.Domain\\AutoService.Domain.csproj|c:\\users\\a c e r   n i t r o\\documents\\autoservice\\autoservice\\autoservice.domain\\entities\\models\\usermodels\\userquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF014C81-E5A7-48BB-B451-37F1AA8487C9}|AutoService.Domain\\AutoService.Domain.csproj|solutionrelative:autoservice.domain\\entities\\models\\usermodels\\userquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF014C81-E5A7-48BB-B451-37F1AA8487C9}|AutoService.Domain\\AutoService.Domain.csproj|c:\\users\\a c e r   n i t r o\\documents\\autoservice\\autoservice\\autoservice.domain\\entities\\models\\autoservicemodels\\autoservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF014C81-E5A7-48BB-B451-37F1AA8487C9}|AutoService.Domain\\AutoService.Domain.csproj|solutionrelative:autoservice.domain\\entities\\models\\autoservicemodels\\autoservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF014C81-E5A7-48BB-B451-37F1AA8487C9}|AutoService.Domain\\AutoService.Domain.csproj|c:\\users\\a c e r   n i t r o\\documents\\autoservice\\autoservice\\autoservice.domain\\entities\\models\\usermodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF014C81-E5A7-48BB-B451-37F1AA8487C9}|AutoService.Domain\\AutoService.Domain.csproj|solutionrelative:autoservice.domain\\entities\\models\\usermodels\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF014C81-E5A7-48BB-B451-37F1AA8487C9}|AutoService.Domain\\AutoService.Domain.csproj|c:\\users\\a c e r   n i t r o\\documents\\autoservice\\autoservice\\autoservice.domain\\entities\\models\\carmodels\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF014C81-E5A7-48BB-B451-37F1AA8487C9}|AutoService.Domain\\AutoService.Domain.csproj|solutionrelative:autoservice.domain\\entities\\models\\carmodels\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserQuestions.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.Domain\\Entities\\Models\\UserModels\\UserQuestions.cs",
+              "RelativeDocumentMoniker": "AutoService.Domain\\Entities\\Models\\UserModels\\UserQuestions.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.Domain\\Entities\\Models\\UserModels\\UserQuestions.cs",
+              "RelativeToolTip": "AutoService.Domain\\Entities\\Models\\UserModels\\UserQuestions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:32:23.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoServiceModel.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.Domain\\Entities\\Models\\AutoServiceModels\\AutoServiceModel.cs",
+              "RelativeDocumentMoniker": "AutoService.Domain\\Entities\\Models\\AutoServiceModels\\AutoServiceModel.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.Domain\\Entities\\Models\\AutoServiceModels\\AutoServiceModel.cs",
+              "RelativeToolTip": "AutoService.Domain\\Entities\\Models\\AutoServiceModels\\AutoServiceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:30:39.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.Domain\\Entities\\Models\\CarModels\\CarModel.cs",
+              "RelativeDocumentMoniker": "AutoService.Domain\\Entities\\Models\\CarModels\\CarModel.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.Domain\\Entities\\Models\\CarModels\\CarModel.cs",
+              "RelativeToolTip": "AutoService.Domain\\Entities\\Models\\CarModels\\CarModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:19:00.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.Domain\\Entities\\Models\\UserModels\\UserModel.cs",
+              "RelativeDocumentMoniker": "AutoService.Domain\\Entities\\Models\\UserModels\\UserModel.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.Domain\\Entities\\Models\\UserModels\\UserModel.cs",
+              "RelativeToolTip": "AutoService.Domain\\Entities\\Models\\UserModels\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:13:07.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
