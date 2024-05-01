@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.API\\AutoService.API.csproj",
+      "projectUniqueName": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\AutoService-backend\\AutoService\\AutoService.API\\AutoService.API.csproj",
       "projectName": "AutoService.API",
-      "projectPath": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.API\\AutoService.API.csproj",
+      "projectPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\AutoService-backend\\AutoService\\AutoService.API\\AutoService.API.csproj",
       "packagesPath": "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.API\\obj\\",
+      "outputPath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\AutoService-backend\\AutoService\\AutoService.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A C E R   N I T R O\\AppData\\Roaming\\NuGet\\NuGet.Config",
