@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1DnRB64F8pRrmiJdd9jhZKwb7aWgYFzzFJFUz0E0pFENJRkiFKKF4/lpIWAlxKDBX722ElaQanjAE+evUBWslg==",
+  "dgSpecHash": "VqlHZEM5/Ic0iyc/Ism3DkdieK81jMcJymDpk4IZlsQU2e5B4a7WzYMFDHWBRV2FtAYaRsWK9lzWSp++XG/0wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\Documents\\AutoService\\AutoService\\AutoService.Domain\\AutoService.Domain.csproj",
+  "projectFilePath": "C:\\Users\\A C E R   N I T R O\\OneDrive\\Документы\\GitHub\\AutoService-backend\\AutoService\\AutoService.Domain\\AutoService.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\A C E R   N I T R O\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.4\\microsoft.aspnet.identity.core.2.2.4.nupkg.sha512",
